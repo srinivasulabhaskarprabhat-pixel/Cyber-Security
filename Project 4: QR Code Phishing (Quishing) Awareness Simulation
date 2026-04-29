@@ -1,0 +1,48 @@
+Project 4: QR Code Phishing (Quishing) Awareness Simulation
+
+Objective
+-----------
+The objective of this project was to research and simulate QR-code based phishing attacks (quishing) and understand the risks associated with malicious QR redirection and credential theft.
+
+Project Description
+--------------------
+
+This project focused on studying the emerging threat of QR phishing (Quishing) by generating QR codes that redirected users to cloned phishing pages within a controlled lab environment. The goal was to understand how attackers may abuse trust in QR interactions to steal credentials.
+
+I created simulated QR redirection scenarios where a scanned QR code led to a fake login portal designed for awareness testing. This demonstrated how users may unknowingly trust QR codes and submit sensitive information to malicious sites.
+
+The project also explored why mobile phishing introduces additional challenges, such as limited URL visibility, reduced verification behavior, and increased trust in quick interactions.
+
+In addition to attack simulation, I studied defensive measures such as QR verification awareness, safe mobile browsing practices, multi-factor authentication protection, and user awareness campaigns aimed at reducing quishing risks.
+
+This project helped me understand a growing phishing vector and how emerging threats can be analyzed from both attacker and defender perspectives.
+
+Tools Used
+-----------
+QR Code Generator
+Clone Phishing Lab Environment
+Kali Linux
+URL Inspection Tools
+Skills Gained
+Quishing Simulation
+Mobile Phishing Awareness
+Threat Research
+Credential Theft Risk Analysis
+Security Awareness Testing
+
+Key Learning Outcomes
+------------------------
+Emerging threat analysis
+QR phishing attack workflow understanding
+Mobile security risks
+User awareness gaps
+Defensive controls for quishing prevention
+Overall Skills Demonstrated Across Projects
+Penetration Testing Fundamentals
+Vulnerability Assessment
+Social Engineering Simulations
+Threat Detection Awareness
+Password Security Analysis
+Red Team Concepts
+Defensive Security Controls
+SOC Analyst Relevant Practical Exposure
