@@ -1,0 +1,43 @@
+Project 3: Phishing Simulation and Email Spoofing Awareness Research
+
+Objective
+
+The objective of this project was to study phishing attack methodologies through authorized simulations and understand both attacker techniques and defensive email security controls used to protect organizations.
+
+Project Description
+
+In this project, I conducted phishing awareness simulations using cloned login portals and spoofed email concepts to understand how attackers use deception to harvest credentials. Using SocialFish and Medusa Phisher, I created phishing scenarios that replicated trusted organizational login pages.
+
+I studied phishing techniques involving lookalike domains, deceptive URLs, trusted branding abuse, and social engineering methods used to manipulate users into submitting credentials.
+
+The project also explored email spoofing awareness, including the study of phishing indicators such as suspicious sender behavior, domain impersonation, and trust abuse techniques. I researched how attackers attempt to make malicious communications appear legitimate.
+
+Alongside offensive simulation, I focused on defensive security mechanisms including SPF, DKIM, DMARC, secure email gateway protections, anti-phishing awareness strategies, and detection methods used by security teams to identify phishing attempts.
+
+This project improved my understanding of both phishing attack infrastructure and the controls organizations use to reduce phishing risk.
+
+
+Tools Used
+-------------
+SocialFish
+Medusa Phisher
+Kali Linux
+Email Header Analysis Tools
+URL Obfuscation Awareness Techniques
+
+
+Skills Gained
+--------------
+Phishing Simulation
+Social Engineering Awareness
+Email Security Concepts
+Credential Harvesting Awareness
+Defensive Email Security Controls
+
+Key Learning Outcomes
+-----------------------
+Phishing attack lifecycle understanding
+Email spoofing indicators
+User awareness gaps
+Social engineering detection concepts
+Defensive phishing controls
